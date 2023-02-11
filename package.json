@@ -1,0 +1,18 @@
+{
+	"name": "string-to-datatype",
+	"version": "1.0.0",
+	"description": "Module to convert strings to their respective datatypes",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"string",
+		"convert",
+		"datatype",
+		"cast",
+		"typecast"
+	],
+	"author": "Anthony Mugendi <ngurumugz@gmail.com>",
+	"license": "MIT"
+}
